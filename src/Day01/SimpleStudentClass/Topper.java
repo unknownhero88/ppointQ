@@ -1,4 +1,4 @@
-package Simple_Student_Class;
+package Day01.SimpleStudentClass;
 
 class Topper extends Student {
 
