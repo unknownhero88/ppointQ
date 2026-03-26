@@ -11,6 +11,7 @@ public class CricketTracker {
 		}
 		System.out.println("Total Runs: " + totalRuns);
 	}
+	 
 	
 	public static void highest_scorer(String[][] scores) {
 		String highestScorer = "";
