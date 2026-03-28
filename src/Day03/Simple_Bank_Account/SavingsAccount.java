@@ -9,7 +9,7 @@ class SavingsAccount extends BankAccount
 		public void addInterest() 
 			{ 
 				/* add 5% interest */ 
-				double intrest = balance*0.5;
+				double intrest = balance*0.05;
 				balance+=intrest;
 				System.out.println("Interest added! New balance: "+balance);
 			} 
