@@ -35,15 +35,16 @@ public class GradeManager
 	
 	public static void toppers_name(HashMap<String,Integer> gades) {
 		String topper = "";
-		int highestGrade = 0;
+		int highestGrade = Integer.MIN_VALUE;
 		for (Map.Entry<String, Integer> entry : gades.entrySet()) {
 			if (entry.getValue() > highestGrade) {
 				highestGrade = entry.getValue();
 				topper = entry.getKey();
 			}
 		}
-		System.out.println("Topper: " + topper + " with " + highestGrade + " marks");
-	}	
+		System.out.println("Topper: " + topper + " (" + highestGrade + " marks)");
+	}
+	
 	public static void main(String[] args) 
 	{ 
 		HashMap<String, Integer> grades = new HashMap<>(); 

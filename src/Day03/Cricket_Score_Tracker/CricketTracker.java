@@ -38,7 +38,7 @@ public class CricketTracker
 
 		public static void Avg_runs(ArrayList<Player> team)
 			{
-				int total=0;
+				double total=0;//int to double 
 				for(Player p:team)
 					{
 						total+=p.runs;
