@@ -1,4 +1,4 @@
-package Day01.SimpleStudentClass;
+package Day02.SimpleStudentClass;
 
 public class Main {
     public static void main(String[] args) {
