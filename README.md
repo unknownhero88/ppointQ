@@ -208,12 +208,26 @@ Beginner → Intermediate → Advanced
 Try Yourself → Think Deeper → Level Up
 ```
 
----
 
+
+---
 # 👨‍💻 Author
 
 **Rishi Sahu**
-Java Developer (Learning Phase)
+Java Developer | Backend Developer (Learning Phase)
+
+### 📬 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-unknownhero88-black?style=for-the-badge\&logo=github)](https://github.com/unknownhero88)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rishisahu8822)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rishisahu3732@gamil.com)
+
+
+---
+
+⭐ If you like this repository, feel free to star it!
 
 ---
 
