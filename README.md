@@ -1,4 +1,9 @@
 # ☕ Java Practice Repository — Daily Learning Journey
+> 🚀 Daily Java Practice Repository  
+> 📚 OOP • Collections • Problem Solving • Real-World Practice
+----
+
+
 
 This repository contains my **daily Java practice problems** designed to improve **problem-solving skills, OOP concepts, and real-world coding ability**.
 
@@ -8,8 +13,34 @@ The problems are organized into **difficulty levels**:
 * ✍ Try It Yourself
 * 🚀 Level Up
 * 📅 Day-wise Practice
+---
+
+
+![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge\&logo=java)
+![IDE](https://img.shields.io/badge/IDE-Eclipse-blue?style=for-the-badge\&logo=eclipseide)
+![Practice](https://img.shields.io/badge/Practice-Daily-green?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-OOP%20%7C%20Collections-blue?style=for-the-badge)
+
+![Repo Size](https://img.shields.io/github/repo-size/unknownhero88/ppointQ?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/unknownhero88/ppointQ?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/unknownhero88/ppointQ?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/unknownhero88/ppointQ?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/unknownhero88/ppointQ?style=for-the-badge)
 
 ---
+# 📈 Progress Tracker
+
+## 📅 Daily Progress
+
+| Day    | Status             | Problems |
+| ------ | --------------      | -------- |
+| Day 02 | ✅ Completed       | 5        |
+| Day 03 | ✅ Completed       | 5        |
+| Day 04 | ✅ Completed       | 5        |
+| Day 05 | ✅ Completed       | 5        |
+
+---
+
 
 # 📂 Repository Structure
 
@@ -96,8 +127,7 @@ Concepts Used:
 
 # 📅 Day-wise Progress
 
-## Day 02 || [View Code](https://github.com/yourname/java-practice/tree/main/src/Day02) || [View Questions](https://rainbow-cucurucho-48ead8.netlify.app/)
-
+## Day 02 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day02) || [View Questions](https://rainbow-cucurucho-48ead8.netlify.app/)
 * Cricket Tracker
 * Friend Finder
 * Marks Manager
@@ -106,8 +136,7 @@ Concepts Used:
 
 ---
 
-## Day 03 || [View Code](https://github.com/yourname/java-practice/tree/main/src/Day03) || [View Questions](https://melodic-dolphin-4ee822.netlify.app/)
-
+## Day 03 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day03) || [View Questions](https://melodic-dolphin-4ee822.netlify.app/)
 
 * Grade Manager
 * Bank Account System
@@ -117,8 +146,7 @@ Concepts Used:
   
 ---
 
-## Day 04 || [View Code](https://github.com/yourname/java-practice/tree/main/src/Day04) || [View Questions](https://reliable-tartufo-eefa2b.netlify.app/)
-
+## Day 04 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day04) || [View Questions](https://reliable-tartufo-eefa2b.netlify.app/)
 
 * ATM System
 * Word Frequency
@@ -128,8 +156,7 @@ Concepts Used:
 
 ---
 
-## Day 05 || [View Code](https://github.com/yourname/java-practice/tree/main/src/Day05) || [View Questions](https://rad-raindrop-90e9cb.netlify.app/)
-
+## Day 05 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day05) || [View Questions](https://rad-raindrop-90e9cb.netlify.app/)
 
 * Bubble Sort
 * Movie Sort
