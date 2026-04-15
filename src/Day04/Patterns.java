@@ -4,7 +4,7 @@ public class Patterns {
 
     static void printTriangle(int n) {
         
-    	for(int i=1;i<=5;i++)
+    	for(int i=1;i<=n;i++)
 		{
 			for(int j=1;j<=i;j++)
 				{	
@@ -14,9 +14,9 @@ public class Patterns {
 		}
     }
     static void printSquare(int n) {
-        for(int i=1;i<=5;i++)
+        for(int i=1;i<=n;i++)
 		{
-			for(int j=1;j<=5;j++)
+			for(int j=1;j<=n;j++)
 				{	
 					System.out.print("*");
 				}
@@ -24,9 +24,9 @@ public class Patterns {
 		}
     }
     static void printReverse(int n) {
-        for(int i=1;i<=5;i++)
+        for(int i=1;i<=n;i++)
 		{
-			for(int j=1;j<=6-i;j++)
+			for(int j=1;j<=(n+1)-i;j++)
 				{	
 					System.out.print("*");
 				}
