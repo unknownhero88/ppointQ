@@ -28,18 +28,24 @@ The problems are organized into **difficulty levels**:
 ![Issues](https://img.shields.io/github/issues/unknownhero88/ppointQ?style=for-the-badge)
 
 ---
+
 # 📈 Progress Tracker
 
 ## 📅 Daily Progress
 
-| Day    | Status             | Problems |
-| ------ | --------------      | -------- |
-| Day 02 | ✅ Completed       | 5        |
-| Day 03 | ✅ Completed       | 5        |
-| Day 04 | ✅ Completed       | 5        |
-| Day 05 | ✅ Completed       | 5        |
+| Day    | Status         | Problems |
+|--------|--------------|----------|
+| Day 02 | ✅ Completed | 5        |
+| Day 03 | ✅ Completed | 5        |
+| Day 04 | ✅ Completed | 5        |
+| Day 05 | ✅ Completed | 5        |
+| Day 06 | ✅ Completed | 5        |
+| Day 07 | ✅ Completed | 5        |
+| Day 08 | ✅ Completed | 5        |
+| Day 09 | ✅ Completed | 5        |
 
 ---
+
 
 
 # 📂 Repository Structure
@@ -50,6 +56,10 @@ src/
  ├── Day03
  ├── Day04
  ├── Day05
+ ├── Day06
+ ├── Day07
+ ├── Day08
+ ├── Day09
  └── More Coming...
 ```
 
@@ -166,6 +176,46 @@ Concepts Used:
 
 ---
 
+## Day 06 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day06) || [View Questions](https://cosmic-pie-811acc.netlify.app/)
+
+- Count Words in Sentence  
+- Reverse an Array  
+- Find Duplicates in Array  
+- Simple Calculator  
+- Temperature Converter  
+
+---
+
+## Day 07 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day07) || [View Questions](https://warm-fairy-9a478e.netlify.app/)
+
+- Number Generator (Random + Prime)  
+- Managing Cart using Map  
+- Strong Password Checker  
+- Employee Management System  
+- Custom Exception (File Logger)  
+
+
+---
+
+## Day 08 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day08) || [View Questions](https://rococo-douhua-8efb55.netlify.app/)
+
+- Process with Threads  
+- Matrix Operations  
+- Balanced Brackets Checker  
+- String Compression  
+- Word Frequency (Advanced)  
+
+---
+
+## Day 09 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day09) || [View Questions](https://day09.netlify.app/)
+
+- List Comprehension (Java Logic Style)  
+- Pass/Fail Checker  
+- Caesar Cipher (Encryption)  
+- Number to Words  
+- Bank Account (Advanced OOP)  
+
+---
 # 🎯 Concepts Covered
 
 * Object Oriented Programming
@@ -222,7 +272,7 @@ Java Developer | Backend Developer (Learning Phase)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/rishisahu8822)
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rishisahu3732@gamil.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rishisahu3732@gmail.com)
 
 
 ---
