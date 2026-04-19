@@ -43,6 +43,7 @@ The problems are organized into **difficulty levels**:
 | Day 07 | ✅ Completed | 5        |
 | Day 08 | ✅ Completed | 5        |
 | Day 09 | ✅ Completed | 5        |
+| Day 10 | ✅ Completed | 5        |
 
 ---
 
@@ -60,6 +61,7 @@ src/
  ├── Day07
  ├── Day08
  ├── Day09
+ ├── Day10
  └── More Coming...
 ```
 
@@ -215,6 +217,14 @@ Concepts Used:
 - Number to Words  
 - Bank Account (Advanced OOP)  
 
+---
+## Day 10 || [View Code](https://github.com/unknownhero88/ppointQ/tree/main/src/Day10) || [View Questions](https://10day.netlify.app/)
+
+- Amazon Order Checker
+- Grade Calculator
+- Fibonacci Sequence Generator
+- Password Strength Validator
+- Advanced Record System (OOP)
 ---
 # 🎯 Concepts Covered
 
