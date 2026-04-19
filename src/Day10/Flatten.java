@@ -10,8 +10,8 @@ public class Flatten {
 
 		for (Object i : nested) {
 			// if item is an Integer, add it directly
-			if (i instanceof Integer) {
-				result.add((Integer) i);
+			if (i instanceof Integer n) {
+				result.add(n);
 			}
 			// if item is a List, loop through its elements and add each
 			else {
